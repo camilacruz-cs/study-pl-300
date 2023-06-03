@@ -12,7 +12,6 @@ description: Repositório de estudos relacionado a certificação da Microsoft.
 # 📁 Habilidades que são avaliadas
 
 ✅ Preparar os dados (25 a 30%)
-
 - Obter dados de fontes de dados
 - Limpar os dados
 - Transformar e carregar os dados
