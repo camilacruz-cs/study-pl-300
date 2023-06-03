@@ -30,5 +30,39 @@ description: Repositório de estudos relacionado a certificação da Microsoft.
 - Criar e gerenciar workspaces e ativos
 - Gerenciar conjuntos de dados
 
-# Lista de estudos
-📝 [Lista de tarefas detalhada](https://github.com/camilacruz-cs/study-pl-300/blob/main/lista-estudos)
+### Lista de estudos
+## Preparar os dados (25 a 30%)
+# Obter dados de fontes de dados
+- [ ] Identificar e conectar-se a uma fonte de dados
+
+- [ ] Alterar as configurações da fonte de dados, incluindo credenciais, níveis de privacidade e locais de fonte de dados
+
+- [ ] Selecionar um conjunto de dados compartilhado ou criar um conjunto de dados local
+
+- [ ] Escolher entre o modo DirectQuery, Importação e Duplo
+
+- [ ] Alterar o valor em um parâmetro
+
+# Limpar os dados
+- [ ] Avaliar dados, incluindo estatísticas de dados e propriedades de coluna
+
+- [ ] Resolver inconsistências, valores inesperados ou nulos e problemas de qualidade de dados
+
+- [ ] Resolver erros de importação de dados
+
+# Transformar e carregar os dados
+- [ ] Selecionar tipos de dados de coluna apropriados
+
+- [ ] Criar e transformar colunas
+
+- [ ] Transformar uma consulta
+
+- [ ] Criar um esquema em estrela que contenha fatos e dimensões
+
+- [ ] Identificar quando usar consultas de referência ou duplicadas e o impacto resultante
+
+- [ ] Mesclar e acrescentar consultas
+
+- [ ] Identificar e criar chaves apropriadas para relações
+
+- [ ] Configurar o carregamento de dados para consultas
