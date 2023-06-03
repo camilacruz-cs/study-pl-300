@@ -1,1 +1,23 @@
+# Tópicos detalhados
 
+💡 Detalhamento de todos os tópicos apresentados no [README.md]
+
+✅ Preparar os dados (25 a 30%)
+
+- Obter dados de fontes de dados
+- Limpar os dados
+- Transformar e carregar os dados
+
+✅ Modelar os dados (25 a 30%)
+- Projetar e implementar um modelo de dados
+- Criar cálculos de modelo usando DAX
+- Otimizar o desempenho do modelo
+
+✅ Visualizar e analisar os dados (25 a 30%)
+- Criar relatórios
+- Aprimorar relatórios para usabilidade e narração
+- Identificar padrões e tendências
+
+✅ Implantar e manter ativos (15 a 20%)
+- Criar e gerenciar workspaces e ativos
+- Gerenciar conjuntos de dados
